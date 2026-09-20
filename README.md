@@ -10,3 +10,5 @@ Python (pandas) data cleaning &amp; analysis + interactive Power BI dashboard on
 Ліцензія: CC BY 4.0
 
 Оригінальні дані надані UNHCR (UN Refugee Agency).
+
+Через нестабільність доступу до Google Translate API без офіційного ключа, переклад може вимагати кількох спроб у різний час доби або з іншої мережі.
