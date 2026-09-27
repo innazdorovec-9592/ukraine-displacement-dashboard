@@ -36,8 +36,8 @@ ukraine-displacement-dashboard/
 │       ├── BI_ukrainian_idps.csv
 │       └── BI_ukrainian_abroad_final.csv
 ├── notebooks/
-│   ├── 01_translation.ipynb              # Translation of footnotes and country names
-│   └── 02_analysis_and_export.ipynb      # Filtering, audit, aggregation, visualization
+│   ├── UA_migrants_IDP_Translator_P.ipynb   # Translation of footnotes and country names
+│   └── UA_migrants_IDP_P.ipynb              # Filtering, audit, aggregation, visualization
 ├── dashboard/
 │   └── UA_migrants_IDP.pbix
 ├── dashboard_screenshots/
